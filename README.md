@@ -5,7 +5,7 @@ An aspiring Web Developer and Designer
 
 * 📓  Studying Information Technology at University of Rizal System
 * ✉️  You can contact me at [biancamarie.victorino@gmail.com](mailto:biancamarie.victorino@gmail.com)
-* 🧠  I'm currently learning ReactJS and Laravel
+* 🧠  I'm currently learning React
 * 🫧  I'm into Designing <33
 
 ### Skills
